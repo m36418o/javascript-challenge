@@ -1,7 +1,7 @@
 // from data.js
 var tableData = data;
 
-// YOUR CODE HERE!
+// In collaboration with Ashley Parra
 
 // Call updateTable() when a click on the filter button takes place
 d3.selectAll("#filter-btn").on("click", updateTable);
